@@ -14,5 +14,3 @@ This is a simple boilerplate to quick start a Node application with Express and 
 **NPM Packages used**
  - HTML as template rendering engine through http://ejs.co/
  - Watch changes to the files through http://nodemon.io/ 
-
-> Written with [StackEdit](https://stackedit.io/).
